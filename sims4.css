@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding: 0;
+	text-decoration: none;
+}
+body{
+
+    background-image: url('sims4.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;	
+    margin: 0 auto;
+    
+}
+h2 {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 2px 0 black, 0 -1px black;
+}
